@@ -10,6 +10,7 @@ I really hope one day to become a <b>UI/UX designer</b>. I've been following dif
 <h1>My projects</h1>
 Here's a list of my latest projects:
 <ul>
+  <li><a href="https://github.com/luca611/meowstardcat-s-community-website"> Meowstardcat's gaming community website</li>
   <li><a href="https://luca611.github.io/Memory-game/">Memory Game (hack club)</a></li>
   <li><a href="https://luca611.github.io/Tic-Tac-Toe/">Tic Tac Toe (hack club)</a></li>
   <li><a href="https://luiis71.itch.io/the-hospital-survival">The hospital survival</a></li>
@@ -17,7 +18,6 @@ Here's a list of my latest projects:
 <h1>What i'm working on...</h1>
 <ul>
   <li><a href="https://github.com/luca611/Space-shooter">Space shooter c#</li>
-  <li><a href="https://github.com/luca611/meowstardcat-s-community-website"> Meowstardcat's gaming community website</li>
 </ul>
 <h2>Skills</h2>
     
