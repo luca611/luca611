@@ -14,10 +14,11 @@ Here's a list of my latest projects:
   <li><a href="https://luca611.github.io/Memory-game/">Memory Game (hack club)</a></li>
   <li><a href="https://luca611.github.io/Tic-Tac-Toe/">Tic Tac Toe (hack club)</a></li>
   <li><a href="https://luiis71.itch.io/the-hospital-survival">The hospital survival</a></li>
+  <li><a href="https://github.com/luca611/Space-shooter">Space shooter c#</li>
 </ul>
 <h1>What i'm working on...</h1>
 <ul>
-  <li><a href="https://github.com/luca611/Space-shooter">Space shooter c#</li>
+  <li><a href="https://github.com/luca611/8bit-driving">8bit driving</a></li>
 </ul>
 <h2>Skills</h2>
     
