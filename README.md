@@ -9,7 +9,10 @@ I became interested in informatics quite early, but it was only a small hobby un
 I really hope one day to become a <b>UI/UX designer</b>. I've been following different courses to enhance my abilities, but for now, it's just a passion that I want to keep pursuing and eventually study in college.
 <h1>My projects</h1>
 Here's a list of my latest projects:
-<ul>
+<ul>    
+  <li><a href="https://github.com/luca611/chatbot">LLaMA3 chat bot ui</a></li>
+  <li><a href="https://luca611.github.io/html-coutdown/">web countdown</a></li>
+  <li><a href="https://sprig.hackclub.com/~/GwnGPq0bBTomvASK5VRR">sprig 2048</a></li>    
   <li><a href="https://github.com/luca611/8bit-driving">8bit driving</a></li>
   <li><a href="https://luca611.github.io/web-slot-machine/">Web slot machine (hack club)</a></li>
   <li><a href="https://github.com/luca611/meowstardcat-s-community-website"> Meowstardcat's gaming community website</li>
@@ -17,10 +20,11 @@ Here's a list of my latest projects:
   <li><a href="https://luca611.github.io/Tic-Tac-Toe/">Tic Tac Toe (hack club)</a></li>
   <li><a href="https://luiis71.itch.io/the-hospital-survival">The hospital survival</a></li>
   <li><a href="https://github.com/luca611/Space-shooter">Space shooter c#</li>
+  <li><a href="https://github.com/luca611/lucas-hub">Luca's hub (collection of all my projects)</a></li>    
 </ul>
 <h1>What i'm working on...</h1>
 <ul>
-    <li><a href="https://github.com/luca611/lucas-hub">Luca's hub (collection of all my projects)</a></li>
+   <li><a href="https://github.com/luca611/to-do-website">to do website with ai integration</a></li>
 </ul>
 <h2>Skills</h2>
     
