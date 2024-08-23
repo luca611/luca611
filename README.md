@@ -21,14 +21,15 @@ Here's a list of my latest projects:
   <li><a href="https://luiis71.itch.io/the-hospital-survival">The hospital survival</a></li>
   <li><a href="https://github.com/luca611/Space-shooter">Space shooter c#</li>
   <li><a href="https://github.com/luca611/lucas-hub">Luca's hub (collection of all my projects)</a></li>    
+  <li><a href="https://github.com/luca611/to-do-website">to do website with ai integration</a></li>
 </ul>
 <h1>What i'm working on...</h1>
 <ul>
-   <li><a href="https://github.com/luca611/to-do-website">to do website with ai integration</a></li>
+   <li><a href="https://github.com/luca611/gym-traker-react-native">gym app in react native</a></li>
 </ul>
 <h2>Skills</h2>
     
-![My Skills](https://skillicons.dev/icons?i=ae,arduino,c,cs,html,css,javascript,figma,python,flask,raspberrypi,java,flutter&perline=10)
+![My Skills](https://skillicons.dev/icons?i=ae,arduino,c,cs,html,css,javascript,figma,python,flask,raspberrypi,java,flutter,react&perline=10)
 <h2>Contact me</h2>
 
 ✉️[Spoldi.luca06@outlook.it](mailto:lunde@Spoldi.luca06@outlook.it?subject=[GitHub]%20Contact%20me)
