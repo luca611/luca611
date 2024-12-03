@@ -25,7 +25,7 @@ Here's a list of my latest projects:
 </ul>
 <h1>What i'm working on...</h1>
 <ul>
-   <li><a href="https://github.com/luca611/gym-traker-react-native">gym app in react native</a></li>
+   <li><a href="https://github.com/luca611/gym-traker-react-native">gym app in react native (suspended for school projects)</a></li>
 </ul>
 <h2>Skills</h2>
     
