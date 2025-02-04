@@ -29,7 +29,7 @@ Here's a list of my latest projects:
 </ul>
 <h2>Skills</h2>
     
-![My Skills](https://skillicons.dev/icons?i=ae,arduino,c,cs,html,css,javascript,figma,python,flask,raspberrypi,java,flutter,react&perline=10)
+![My Skills](https://skillicons.dev/icons?i=arduino,c,cs,html,css,javascript,figma,python,nodejs,raspberrypi,java,flutter,react&perline=10)
 <h2>Contact me</h2>
 
 ✉️[Spoldi.luca06@outlook.it](mailto:lunde@Spoldi.luca06@outlook.it?subject=[GitHub]%20Contact%20me)
