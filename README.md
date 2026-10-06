@@ -3,10 +3,10 @@
     <img width="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZnZGhxdm5qYzJxNmtrdHoyZmc4eHJydmZjcTZjeWsyN2tuZ3ZobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2J4vL4IK6dZj8s/giphy.gif">
 </p>
 <h1>About Me 🫣</h1>
-Hi, I'm <b>Luca</b> and I'm <b>20 years old</b>. I'm from Italy :it:, and I'm currently studying in high school!
+Hi, I'm <b>Luca</b> and I'm <b>20 years old</b>. I'm from Italy :it:, and I'm currently studying at Politecnico di Milano!
 I became interested in informatics quite early, but it was only a small hobby until a few years ago when I decided that it was what I wanted to do in my life :computer:.
 <h1>My Dream 🚀</h1>
-I really hope one day to become a <b>UI/UX designer</b>. I've been following different courses to enhance my abilities, but for now, it's just a passion that I want to keep pursuing and eventually study in college.
+I really hope one day to become a <b>UI/UX designer</b>.
 <h1>My projects</h1>
 Here's a list of my latest projects:
 <ul>    
